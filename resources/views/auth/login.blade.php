@@ -32,8 +32,6 @@
     <script src="vendor/daterangepicker/daterangepicker.js"></script>
     <script src="vendor/countdowntime/countdowntime.js"></script>
     <script src="{{ asset('js/app.js') }}"></script>
-    <script src="{{ asset('js/login/main.js') }}"></script>
-    <!--<script src="{{ asset('js/login/map-custom.js') }}"></script>-->
 
 </body>
 </html>

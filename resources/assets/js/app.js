@@ -1,4 +1,6 @@
 require('./bootstrap');
+require('./auth/main.js');
+//require('./auth/map-custom.js');
 import Vue from 'vue';
 import Vuex from 'vuex';
 import VueRouter from 'vue-router';
